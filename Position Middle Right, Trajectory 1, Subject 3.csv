@@ -1,6 +1,3 @@
-﻿Objects
-800
-,,Global Angle elbow:elbow,,,,,,Global Angle shoulder:shoulder,,,,,,Global Angle wrist:wrist,,,,,,
 Frame,Sub Frame,RX,RY,RZ,TX,TY,TZ,RX,RY,RZ,TX,TY,TZ,RX,RY,RZ,TX,TY,TZ
 ,,rad,rad,rad,mm,mm,mm,rad,rad,rad,mm,mm,mm,rad,rad,rad,mm,mm,mm
 1,0,-0.805213,2.363471,-0.399646,-527.968933,-69.421913,-54.335491,-1.891463,0.105204,0.539397,-550.761841,133.139465,268.256897,2.210688,-1.980731,-0.750889,-337.826599,-139.200317,-306.144073
